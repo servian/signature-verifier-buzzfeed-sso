@@ -1,0 +1,14 @@
+{
+  "name": "signature-verifier-buzzfeed-sso",
+  "version": "0.1.0",
+  "description": "A signature verifier package for Buzzfeed's SSO",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sso"
+  ],
+  "author": "Servian Pty Ltd",
+  "license": "MIT"
+}
